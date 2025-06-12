@@ -1,0 +1,1 @@
+Everything in python, data structures or data types are class
